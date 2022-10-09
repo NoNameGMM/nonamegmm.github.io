@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nonamegmm.github.io</id>
+    <title>起不出名字的顾某某的个人站</title>
+    <updated>2022-10-09T09:52:09.861Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nonamegmm.github.io"/>
+    <link rel="self" href="https://nonamegmm.github.io/atom.xml"/>
+    <subtitle>来瞎wanwan吧</subtitle>
+    <logo>https://nonamegmm.github.io/images/avatar.png</logo>
+    <icon>https://nonamegmm.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 起不出名字的顾某某的个人站</rights>
+    <entry>
+        <title type="html"><![CDATA[自我介绍啦]]></title>
+        <id>https://nonamegmm.github.io/post/self-introduction/</id>
+        <link href="https://nonamegmm.github.io/post/self-introduction/">
+        </link>
+        <updated>2022-10-09T08:46:11.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="各位朋友们陌生人你们好">各位朋友们，陌生人，你们好!</h1>
+<h2 id="我是-起不出名字的顾某某">我是    起不出名字的顾某某</h2>
+<h2 id="作为一个future的programmer">作为一个Future的Programmer</h2>
+<h2 id="我就从现在开始尝试啦">我就从现在开始尝试啦</h2>
+<h2 id="自我介绍">自我介绍:</h2>
+<h3 id="姓名-name-起不出名字的顾某某">姓名-Name : 起不出名字的顾某某</h3>
+<h3 id="年龄-age-unknow">年龄-Age : Unknow</h3>
+<h1 id="没了吧大概没了">(没了吧....大概没了...😓)</h1>
+]]></content>
+    </entry>
+</feed>
